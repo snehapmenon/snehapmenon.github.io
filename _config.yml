@@ -1,0 +1,5 @@
+title: "My Academic Website"
+description: "About | Research | Policy"
+baseurl: ""
+url: "https://snehapgithub.github.io"  # change to your actual username
+theme: minima
