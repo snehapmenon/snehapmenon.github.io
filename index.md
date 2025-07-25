@@ -67,7 +67,7 @@ title: "Welcome"
 
 <div class="content">
   <div class="photo">
-    <img src="/assets/img/photo.jpg" alt="Profile Photo">
+    <img src="/assets/img/profile.png" alt="Profile Photo">
   </div>
   <div class="bio">
   <h1>Welcome</h1>
