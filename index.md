@@ -14,7 +14,7 @@ title: "Welcome"
     <p> <p> 
     <p> <p> 
     <p> <p> 
-    <p> I'm a doctoral student of Economics at the Berlin School of Economics, with an affiliation to Hertie School and ESMT Berlin. My research focuses on labour, gender and climate. Prior to starting my PhD, I worked for many years in the Indian and international development sector. I hold a postgraduate degree in Economics from the University of Oxford and Applied Statistics from the University of Mumbai. </p>
+    <p> I'm a doctoral student of Economics at the Berlin School of Economics, with an affiliation to Hertie School and ESMT Berlin. My research focuses on labour, gender and climate. Prior to starting my PhD, I worked for many years in the Indian and International development sector. I hold a postgraduate degree in Economics from the University of Oxford and Applied Statistics from the University of Mumbai. </p>
     <p> <p> 
     <p> <p> 
     <p> <p> 
