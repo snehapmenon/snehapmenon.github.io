@@ -4,15 +4,12 @@ title: ""
 permalink: /research.html
 ---
 
-# Research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor sapien vel purus ullamcorper, ut fringilla ex scelerisque. Morbi eu lectus a orci euismod vestibulum.
 
 - **Selected work in progress**
   
    Digital skills training of vocational school educators in Rwanda (with Rajshri Jayaraman)
 
-   [The Impact of In-law Mortality on Women’s Labor Supply in India]([url](https://www.isid.ac.in/~acegd/acegd2024/papers/RajshriJayaraman.pdf)) (with Rajshri Jayaraman). 
+   Impact of in-law mortality on women's labour supply in India [The Impact of In-law Mortality on Women’s Labor Supply in India]([url](https://www.isid.ac.in/~acegd/acegd2024/papers/RajshriJayaraman.pdf)) (with Rajshri Jayaraman). 
 
   
 
