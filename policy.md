@@ -20,13 +20,13 @@ permalink: /policy.html
 
  - **OpEds and Commentary**  
 
-[Data Governance during COVID-19]([url](https://artha.global/blog/?user_post[]=sneha_p) (2020) Artha Global
+[Data Governance during COVID-19]([url](https://artha.global/blog/?user_post[]=sneha_p)) (2020) Artha Global
 
-[Do COVID-19 Patients have a right to Privacy?]([url](https://science.thewire.in/health/do-indias-covid-19-patients-have-a-right-to-privacy/) (2020) The Wire
+[Do COVID-19 Patients have a right to Privacy?]([url](https://science.thewire.in/health/do-indias-covid-19-patients-have-a-right-to-privacy/)) (2020) The Wire
 
-[Interpreting Kerala’s COVID-19 Numbers]([url](https://www.epw.in/engage/article/interpreting-keralas-covid-19-numbers) (2020) Economic Political Weekly
+[Interpreting Kerala’s COVID-19 Numbers]([url](https://www.epw.in/engage/article/interpreting-keralas-covid-19-numbers)) (2020) Economic Political Weekly
 
-[Not Everything that can be Counted]([url](www.epw.in/journal/2017/32/commentary/not-everything-can-be-counted-counted.html) (2017) Economic Political Weekly
+[Not Everything that can be Counted]([url](www.epw.in/journal/2017/32/commentary/not-everything-can-be-counted-counted.html)) (2017) Economic Political Weekly
 
-[Nudging India forward: Setting up a Nudge Unit]([url](https://www.livemint.com/Politics/nlDZwTwdUE1nZqPRxORHeJ/Nudging-India-forward-Setting-up-a-nudge-unit.html) (2016) Livemint
+[Nudging India forward: Setting up a Nudge Unit]([url](https://www.livemint.com/Politics/nlDZwTwdUE1nZqPRxORHeJ/Nudging-India-forward-Setting-up-a-nudge-unit.html)) (2016) Livemint
 
