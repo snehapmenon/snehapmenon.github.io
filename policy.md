@@ -7,45 +7,26 @@ permalink: /policy.html
 
 - **Reports and white papers**
   
-COVID-19 Pandemic in Kerala - A State Capacity Perspective {https://artha.global/working-paper/the-first-wave-of-covid-19-in-kerala-a-state-capacity-perspective/} (2020) Artha Global
+[COVID-19 Pandemic in Kerala - A State Capacity Perspective]([url](https://artha.global/working-paper/the-first-wave-of-covid-19-in-kerala-a-state-capacity-perspective/))  (2020) Artha Global.
 	
-PM Garib Kalyan Yojana: Coverage, Identification and Implementation (2020) {https://artha.global/working-paper/pm-garib-kalyan-yojana-coverage-identification-and-implementation/} (2020) Artha Global
+[PM Garib Kalyan Yojana: Coverage, Identification and Implementation]([url](https://artha.global/working-paper/pm-garib-kalyan-yojana-coverage-identification-and-implementation/})) (2020) Artha Global.
+
+[Female work and Labour force participation in India]([url](https://www.undp.org/sites/g/files/zskgke326/files/migration/in/Women-at-Work-Report.pdf)) (2019) UNDP India
+
+[Social protection Financing in the Gambia]([url](https://mofea.gov.gm/wp-content/uploads/2024/03/Social-Protection-Financing-In-The-Gambia-working-Paper-2.pdf)) (2018) Ministry of Finance of the Gambia Working papers.
+
+[Corporate Taxation in The Gambia]([url](https://mofea.gov.gm/wp-content/uploads/2024/03/Corporate-Income-Taxation-in-The-Gambia-2018-working-Paper-1-.pdf)) (2018) Ministry of Finance of the Gambia Working Papers.
 
 
+ - **OpEds and Commentary**  
 
-	
-\item
-{\textbf{\href{https://www.undp.org/sites/g/files/zskgke326/files/migration/in/Women-at-Work-Report.pdf}{Female work and labour force participation in India}}} (Report), {\emph{UNDP India, 2019}}
+[Data Governance during COVID-19]([url](https://artha.global/blog/?user_post[]=sneha_p) (2020) Artha Global
 
-	\item
-	{\textbf{\href{https://mofea.gov.gm/wp-content/uploads/2024/03/Social-Protection-Financing-In-The-Gambia-working-Paper-2.pdf}{Social Protection Financing in The Gambia}}}, {\emph{Ministry of Finance Working Papers, 2018}}
-	
-	\item
-	{\textbf{\href{https://mofea.gov.gm/wp-content/uploads/2024/03/Corporate-Income-Taxation-in-The-Gambia-2018-working-Paper-1-.pdf}{Corporate Taxation in The Gambia}}}, {\emph{Ministry of Finance Working Papers, 2018}}
- 
- 
- 
- Digital skills training in vocational education in Rwanda (with Rajshri Jayaraman)
+[Do COVID-19 Patients have a right to Privacy?]([url](https://science.thewire.in/health/do-indias-covid-19-patients-have-a-right-to-privacy/) (2020) The Wire
 
-   Extreme weather and labour market outcomes in India
+[Interpreting Kerala’s COVID-19 Numbers]([url](https://www.epw.in/engage/article/interpreting-keralas-covid-19-numbers) (2020) Economic Political Weekly
 
-   Trade-off between supply and demand constraints on female labour-force participation in India (with Vincent Ramos and Anirudh Tagat)
+[Not Everything that can be Counted]([url](www.epw.in/journal/2017/32/commentary/not-everything-can-be-counted-counted.html) (2017) Economic Political Weekly
 
-   Long-term effects of school feeding programs in India (with Tanika Chakraborty and Rajshri Jayaraman)
-  
+[Nudging India forward: Setting up a Nudge Unit]([url](https://www.livemint.com/Politics/nlDZwTwdUE1nZqPRxORHeJ/Nudging-India-forward-Setting-up-a-nudge-unit.html) (2016) Livemint
 
-- **Working Papers**  
-
-  [The Impact of In-law Mortality on Women’s Labor Supply in India]([url](https://www.isid.ac.in/~acegd/acegd2024/papers/RajshriJayaraman.pdf)) (with Rajshri Jayaraman). 
-
-
-- **Peer reviewed Papers**  
-
-
-  [Bureaucratic Risk Aversion and Indecision in India (2021)]([url](https://www.ippr.in/index.php/ippr/article/view/84))
-  
-
-  [RCTs for Policy: Ethical and Methodological Concerns (2021)]([url](https://www.ippr.in/index.php/ippr/article/view/48))
-
-
-  [Aadhaar-Based Biometrics and Food Security (2018)]([url](https://journals.sagepub.com/doi/10.1177/0973703017748384))
