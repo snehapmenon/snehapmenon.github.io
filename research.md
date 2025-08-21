@@ -13,8 +13,6 @@ permalink: /research.html
 
    Trade-off between supply and demand constraints on female labour-force participation in India (with Vincent Ramos and Anirudh Tagat)
 
-   Long-term effects of school feeding programs in India (with Tanika Chakraborty and Rajshri Jayaraman)
-  
 
 - **Working Papers**  
 
@@ -24,10 +22,10 @@ permalink: /research.html
 - **Peer reviewed Papers**  
 
 
-  [Bureaucratic Risk Aversion and Indecision in India (2021)]([url](https://www.ippr.in/index.php/ippr/article/view/84))
+  [Bureaucratic Risk Aversion and Indecision in India]([url](https://www.ippr.in/index.php/ippr/article/view/84)) (2020) Indian Public Policy Review.
   
 
-  [RCTs for Policy: Ethical and Methodological Concerns (2021)]([url](https://www.ippr.in/index.php/ippr/article/view/48))
+  [RCTs for Policy: Ethical and Methodological Concerns]([url](https://www.ippr.in/index.php/ippr/article/view/48)) (2021) Indian Public Policy Review.
 
 
-  [Aadhaar-Based Biometrics and Food Security (2018)]([url](https://journals.sagepub.com/doi/10.1177/0973703017748384))
+  [Aadhaar-Based Biometrics and Food Security]([url](https://journals.sagepub.com/doi/10.1177/0973703017748384)) (2018) Indian Journal of Human Development.
