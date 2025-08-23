@@ -16,7 +16,7 @@ permalink: /research.html
 
 - **Working Papers**  
 
-  [The Impact of In-law Mortality on Women’s Labor Supply in India]([url](https://www.isid.ac.in/~acegd/acegd2024/papers/RajshriJayaraman.pdf)) (with Rajshri Jayaraman). 
+  <a href="https://www.isid.ac.in/~acegd/acegd2024/papers/RajshriJayaraman.pdf" style="color: blue; " target="_blank"  rel="noopener noreferrer" >The Impact of In-law Mortality on Women’s Labor Supply in India</a> (with Rajshri Jayaraman). 
 
 
 - **Peer reviewed Papers**  
