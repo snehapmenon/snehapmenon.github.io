@@ -7,17 +7,19 @@ permalink: /research.html
 
 - **Selected work in progress**
   
-   Digital skills training in vocational education in Rwanda (with <a href="https://journals.sagepub.com/doi/10.1177/0973703017748384" style="color: darkgreen; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a> and <a href="https://journals.sagepub.com/doi/10.1177/0973703017748384" style="color: darkgreen; " target="_blank"  rel="noopener noreferrer" >Sunna Hügemann</a>
+   Digital skills training in vocational education in Rwanda (with <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a> and <a href="https://esmt.berlin/person/sunna-huegemann" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Sunna Hügemann</a>)
+
 
 
    Extreme weather and labour market outcomes in India
 
-   Trade-off between supply and demand constraints on female labour-force participation in India (with <a href="https://journals.sagepub.com/doi/10.1177/0973703017748384" style="color: darkgreen; " target="_blank"  rel="noopener noreferrer" >Vincent Ramos</a> and <a href="https://journals.sagepub.com/doi/10.1177/0973703017748384" style="color: darkgreen; " target="_blank"  rel="noopener noreferrer" >Anirudh Tagat</a>)
+   Trade-off between supply and demand constraints on female labour-force participation in India (with <a href="https://vincentrramos.github.io/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Vincent Ramos</a> and <a href="https://www.anirudhtagat.com/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Anirudh Tagat</a>)
+
 
 
 - **Working Papers**  
 
-  <a href="https://www.isid.ac.in/~acegd/acegd2024/papers/RajshriJayaraman.pdf" style="color: blue; " target="_blank"  rel="noopener noreferrer" >The Impact of In-law Mortality on Women’s Labor Supply in India</a> (with <a href="https://journals.sagepub.com/doi/10.1177/0973703017748384" style="color: darkgreen; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a>). 
+  <a href="https://www.isid.ac.in/~acegd/acegd2024/papers/RajshriJayaraman.pdf" style="color: blue; " target="_blank"  rel="noopener noreferrer" >The Impact of In-law Mortality on Women’s Labor Supply in India</a> (with <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a>). 
 
 
 - **Peer reviewed Papers**  
