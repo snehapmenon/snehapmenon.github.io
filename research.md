@@ -22,7 +22,7 @@ permalink: /research.html
 - **Peer reviewed Papers**  
 
 
-  [Bureaucratic Risk Aversion and Indecision in India]([url](https://www.ippr.in/index.php/ippr/article/view/84)) (2020) Indian Public Policy Review. [Summary in <a href="https://www.ideasforindia.in/topics/miscellany/rcts-for-policymaking-ethical-and-methodological-considerations.html" style="color: darkred;">Ideas for India</a> ]
+  [Bureaucratic Risk Aversion and Indecision in India]([url](https://www.ippr.in/index.php/ippr/article/view/84)) (2020) Indian Public Policy Review. [Summary in <a href="https://www.ideasforindia.in/topics/miscellany/rcts-for-policymaking-ethical-and-methodological-considerations.html" style="color: darkred;"," target="_blank">Ideas for India</a> ]
   
 
   [RCTs for Policy: Ethical and Methodological Concerns]([url](https://www.ippr.in/index.php/ippr/article/view/48)) (2021) Indian Public Policy Review.
