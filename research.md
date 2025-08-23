@@ -22,12 +22,12 @@ permalink: /research.html
 - **Peer reviewed Papers**  
 
 
-  [Bureaucratic Risk Aversion and Indecision in India]([url](https://www.ippr.in/index.php/ippr/article/view/84)) (2020) Indian Public Policy Review. [Summary in <a href="https://www.ideasforindia.in/topics/miscellany/rcts-for-policymaking-ethical-and-methodological-considerations.html" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Ideas for India</a> ]
+  <a href="https://www.ippr.in/index.php/ippr/article/view/84" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Bureaucratic Risk Aversion and Indecision in India</a> (2020) Indian Public Policy Review. [Summary in <a href="https://www.ideasforindia.in/topics/miscellany/rcts-for-policymaking-ethical-and-methodological-considerations.html" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Ideas for India</a> ]
 
-  [RCTs for Policy: Ethical and Methodological Concerns]([url](https://www.ippr.in/index.php/ippr/article/view/48)) (2021) Indian Public Policy Review.
+  <a href="https://www.ippr.in/index.php/ippr/article/view/48" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >RCTs for Policy: Ethical and Methodological Concerns</a> (2021) Indian Public Policy Review.
 
 
-  [Aadhaar-Based Biometrics and Food Security]([url](https://journals.sagepub.com/doi/10.1177/0973703017748384)) (2018) Indian Journal of Human Development.
+  <a href="https://journals.sagepub.com/doi/10.1177/0973703017748384" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Aadhaar-Based Biometrics and Food Security</a> (2018) Indian Journal of Human Development.
 
 
 - **RCTs for Policy: Ethical and Methodological Concerns (2021)**  
