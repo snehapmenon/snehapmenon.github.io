@@ -5,7 +5,7 @@ title: "Welcome"
 
 <div style="display: flex; flex-direction: row; gap: 2em; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/img/photo.jpeg" alt="Profile Photo" style="max-width: 100%; border-radius: 5px;">
+    <img src="/assets/img/profile.jpeg" alt="Profile Photo" style="max-width: 100%; border-radius: 5px;">
   </div>
   <div style="flex: 2; min-width: 300px;">
     <h1> </h1>
