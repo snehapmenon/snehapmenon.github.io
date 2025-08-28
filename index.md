@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sneha P. | About"
-description: "I'm a doctoral student of Economics at the Berlin School of Economics, with an affiliation to Hertie School and ESMT Berlin. My research focuses on labour, gender and climate. Before starting my PhD, I worked for many years in public policy and development in India and West Africa. I hold a masters degree in Economics from the University of Oxford and a PGD in Applied Statistics from the University of Mumbai."
+description: "I'm a doctoral student of Economics at the Berlin School of Economics.."
 ---
 
 <div style="display: flex; flex-direction: row; gap: 1.5em; flex-wrap: wrap; align-items: center; padding: 0;">
