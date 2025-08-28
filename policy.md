@@ -4,10 +4,6 @@ title: "Sneha P. | Policy"
 permalink: /policy.html
 ---
 
-  <p> <p>
-	    <p> <p>
-			  <p> <p>
-				    <p> <p>
 - **Reports and white papers**
   
   <a href="https://artha.global/working-paper/the-first-wave-of-covid-19-in-kerala-a-state-capacity-perspective/" style="color: blue; " target="_blank"  rel="noopener noreferrer" >COVID-19 Pandemic in Kerala - A State Capacity Perspective</a> (2020) IDFC Institute (with Kadambari Shah, Vibhav Mariwala, Ashwin Varghese & Mehul Das).
