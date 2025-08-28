@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Policy"
+title: "Sneha P. | Policy"
 permalink: /policy.html
 ---
 
