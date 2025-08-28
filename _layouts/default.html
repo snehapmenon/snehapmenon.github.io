@@ -1,19 +1,35 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
     <meta charset="utf-8">
+
+    <!-- SEO Meta Tags -->
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <meta name="author" content="Sneha P.">
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+    <!-- Mobile Responsiveness -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- Styles -->
     <style>
-body {
-  font-family: 'Inter', sans-serif;
-  letter-spacing: 0.02em;
-  word-spacing: 0.12em;
-  line-height: 1.6;
-  margin: 0;
-  padding: 0;
-}
-
-
+      body {
+        font-family: 'Inter', sans-serif;
+        letter-spacing: 0.02em;
+        word-spacing: 0.12em;
+        line-height: 1.6;
+        margin: 0;
+        padding: 0;
+      }
 
       header {
         background-color: #000;
@@ -31,30 +47,38 @@ body {
         font-weight: bold;
       }
 
+      .centered-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: calc(100vh - 80px); /* minus header */
+        padding: 2em;
+        box-sizing: border-box;
+      }
+
       .content {
         padding: 2em;
         max-width: 1000px;
         margin: auto;
+        width: 100%;
       }
     </style>
   </head>
+
   <body>
-<body>
-  <header>
-    <div></div>
-    <nav>
-      <a href="/">About</a>
-      <a href="/research.html">Research</a>
-      <a href="/policy.html">Policy</a>
-    </nav>
-  </header>
+    <header>
+      <div></div>
+      <nav>
+        <a href="/">About</a>
+        <a href="/research.html">Research</a>
+        <a href="/policy.html">Policy</a>
+      </nav>
+    </header>
 
-  <main class="centered-wrapper">
-    <div class="content">
-      {{ content }}
-    </div>
-  </main>
-</body>
-
+    <main class="centered-wrapper">
+      <div class="content">
+        {{ content }}
+      </div>
+    </main>
   </body>
 </html>
