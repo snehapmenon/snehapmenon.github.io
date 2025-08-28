@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: "Sneha P. | Research"
 permalink: /research.html
 ---
 
