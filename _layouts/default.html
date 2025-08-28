@@ -22,7 +22,7 @@
 
     <!-- Styles -->
     <style>
-      /* Base typography */
+      
       body {
         font-family: 'Inter', sans-serif;
         letter-spacing: 0.02em;
@@ -32,11 +32,11 @@
         padding: 0;
       }
 
-      /* Header / nav */
+      
       header {
         background-color: #000;
         color: #fff;
-        padding: 0.75em 2em; /* tightened from 1em */
+        padding: 0.75em 2em; 
         display: flex;
         justify-content: space-between;
         align-items: center;
@@ -50,32 +50,32 @@
       }
       nav a:hover { text-decoration: underline; }
 
-      /* Layout wrapper (no forced viewport height, no extra padding) */
+      
       .centered-wrapper {
         display: flex;
-        align-items: flex-start;   /* no vertical centering -> less top gap */
+        align-items: flex-start;   
         justify-content: center;
         min-height: auto;
         padding: 0;
         box-sizing: border-box;
       }
 
-      /* Page content area (small top padding to prevent margin-collapsing) */
+      
       .content {
-        padding: 0.25rem 2rem 1.25rem; /* tiny top padding, normal sides, moderate bottom */
+        padding: 0.25rem 2rem 1.25rem; 
         max-width: 1000px;
         margin: 0 auto;
         width: 100%;
       }
 
-      /* Trim extra gaps from first/last child blocks */
+       
       .content > *:first-child { margin-top: 0; }
       .content > *:last-child  { margin-bottom: 0; }
 
-      /* Slightly tighter paragraph rhythm site-wide */
+       
       .content p { margin: 0.6em 0; }
 
-      /* Responsive side padding */
+       
       @media (max-width: 640px) {
         .content { padding: 0.25rem 1rem 1.1rem; }
       }
