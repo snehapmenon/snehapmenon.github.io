@@ -23,7 +23,7 @@
 
     <!-- Styles -->
     <style>
-      /* Base typography */
+      
       body {
         font-family: 'Inter', sans-serif;
         letter-spacing: 0.02em;
@@ -33,7 +33,7 @@
         padding: 0;
       }
 
-      /* Header / nav */
+       
       header {
         background-color: #000;
         color: #fff;
@@ -51,7 +51,7 @@
       }
       nav a:hover { text-decoration: underline; }
 
-      /* Layout wrapper (no forced viewport height, no extra padding) */
+       
       .centered-wrapper {
         display: flex;
         align-items: flex-start;
@@ -61,22 +61,22 @@
         box-sizing: border-box;
       }
 
-      /* Page content area — a bit more space at the top */
+       
       .content {
-        padding: 0.65rem 2rem 1.6rem; /* ↑ top & bottom a touch */
+        padding: 0.65rem 2rem 1.6rem;  
         max-width: 1000px;
         margin: 0 auto;
         width: 100%;
       }
 
-      /* Trim extra gaps from first/last child blocks */
+       
       .content > *:first-child { margin-top: 0; }
       .content > *:last-child  { margin-bottom: 0; }
 
-      /* Slightly tighter paragraph rhythm site-wide */
+       
       .content p { margin: 0.6em 0; }
 
-      /* Responsive side padding */
+      
       @media (max-width: 640px) {
         .content { padding: 0.5rem 1rem 1.3rem; }
       }
