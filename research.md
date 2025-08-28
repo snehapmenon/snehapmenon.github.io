@@ -1,8 +1,10 @@
 ---
 layout: default
 title: "Sneha P. | Research"
+description: "Selected work in progress, working papers, and peer-reviewed publications."
 permalink: /research.html
 ---
+
 
   <p> <p>
       <p> <p>
