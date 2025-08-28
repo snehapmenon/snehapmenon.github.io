@@ -1,8 +1,10 @@
 ---
 layout: default
 title: "Sneha P. | Policy"
+description: "Reports, white papers and commentary."
 permalink: /policy.html
 ---
+
 
 - **Reports and white papers**
   
