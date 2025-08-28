@@ -5,7 +5,6 @@ description: "Selected work in progress, working papers, and peer-reviewed publi
 permalink: /research.html
 ---
 
-
 - **Selected work in progress**
   
    Extreme weather and labour market outcomes in India
