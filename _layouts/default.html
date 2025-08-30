@@ -3,27 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta name="google-site-verification" content="wsWYWZtClway6p7Q934k9k80R7oGuTjdRdcDbs-ny58" />
-
-    <!-- SEO Meta Tags -->
     <title>{{ page.title | default: site.title }}</title>
     <meta name="description" content="{{ page.description | default: site.description }}">
     <meta name="author" content="Sneha P.">
-
-    <!-- Open Graph Tags -->
     <meta property="og:title" content="{{ page.title | default: site.title }}">
     <meta property="og:description" content="{{ page.description | default: site.description }}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-
-    <!-- Mobile Responsiveness -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- Font -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-
-    <!-- Styles -->
     <style>
-      
       body {
         font-family: 'Inter', sans-serif;
         letter-spacing: 0.02em;
@@ -32,17 +21,14 @@
         margin: 0;
         padding: 0;
       }
-
-       
       header {
         background-color: #000;
         color: #fff;
-        padding: 1em 2em; /* ↑ was 0.75em */
+        padding: 1em 2em;
         display: flex;
         justify-content: space-between;
         align-items: center;
       }
-
       nav a {
         color: #fff;
         margin-left: 1em;
@@ -50,8 +36,6 @@
         font-weight: bold;
       }
       nav a:hover { text-decoration: underline; }
-
-       
       .centered-wrapper {
         display: flex;
         align-items: flex-start;
@@ -60,29 +44,30 @@
         padding: 0;
         box-sizing: border-box;
       }
-
-       
       .content {
-        padding: 0.65rem 2rem 1.6rem;  
+        padding: 0.65rem 2rem 1.6rem;
         max-width: 1000px;
         margin: 0 auto;
         width: 100%;
       }
-
-       
       .content > *:first-child { margin-top: 0; }
       .content > *:last-child  { margin-bottom: 0; }
-
-       
       .content p { margin: 0.6em 0; }
-
-      
       @media (max-width: 640px) {
         .content { padding: 0.5rem 1rem 1.3rem; }
+        header {
+          padding: 1em; /* Adjust padding for smaller screens */
+        }
+        .content {
+          padding: 0.5rem;
+        }
+        img {
+          width: 100%;
+          max-width: 350px;
+        }
       }
     </style>
   </head>
-
   <body>
     <header>
       <div></div>
@@ -92,7 +77,6 @@
         <a href="/policy.html">Policy</a>
       </nav>
     </header>
-
     <main class="centered-wrapper">
       <div class="content">
         {{ content }}
