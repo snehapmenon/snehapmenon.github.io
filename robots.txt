@@ -4,7 +4,7 @@ Disallow: /
 User-agent: OAI-SearchBot
 Disallow: /
 
-User-agent: ChatGPT-User
+User-agent: Google-Extended
 Disallow: /
 
 User-agent: ClaudeBot
@@ -16,10 +16,19 @@ Disallow: /
 User-agent: PerplexityBot
 Disallow: /
 
-User-agent: Google-Extended
+User-agent: Applebot-Extended
 Disallow: /
 
 User-agent: *
 Disallow: /assets/CV.pdf
+
+User-agent: Googlebot
+Allow: /assets/CV.pdf
+
+User-agent: Bingbot
+Allow: /assets/CV.pdf
+
+User-agent: DuckDuckBot
+Allow: /assets/CV.pdf
 
 Sitemap: https://snehapmenon.github.io/sitemap.xml
