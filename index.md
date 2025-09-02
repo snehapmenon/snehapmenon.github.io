@@ -14,6 +14,6 @@ description: "I'm a doctoral student of Economics at the Berlin School of Econom
   <div style="flex: 1 1 300px; padding: 1em;">
     <p>I'm a doctoral student of Economics at the Berlin School of Economics, with an affiliation to Hertie School and ESMT Berlin. My research focuses on labour, gender, and climate. Before starting my PhD, I worked for many years in public policy and development in India and West Africa. I hold a master's degree in Economics from the University of Oxford and a PGD in Applied Statistics from the University of Mumbai.</p>
 
-    <p>Here is my <a href="/assets/CV.pdf" target="_blank" style="color: darkred;"> and contact<a href="mailto:sneha.menon@esmt.org" target="_blank" style="color: darkred;">. </p>
+    <p>Here is my <a href="/assets/CV.pdf" target="_blank" style="color: darkred;">CV</a> and <a href="mailto:sneha.menon@esmt.org" target="_blank" style="color: darkred;">contact </a>. </p>
   </div>
 </div>
