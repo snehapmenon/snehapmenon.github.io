@@ -17,7 +17,7 @@ permalink: /research.html
    Trade-off between supply and demand constraints on female labour-force participation in India (with <a href="https://vincentrramos.github.io/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Vincent Ramos</a> and <a href="https://www.anirudhtagat.com/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Anirudh Tagat</a>).
   
 
-   Long-term effects of school feeding programs on the labour market (with <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a> and <a href="https://sites.google.com/view/tanikac" style="color: darkred; " target="_blank"  rel="noopener noreferrer" > Tanika Chakraborty </a>).
+   Long-term effects of school feeding programs on the labour market (with <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a> and <a href="https://sites.google.com/view/tanikac" style="color: darkred; " target="_blank"  rel="noopener noreferrer" > Tanika Chakraborty</a>).
 
 - **Working Papers**  
 
