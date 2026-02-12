@@ -12,7 +12,7 @@ permalink: /research.html
 
   Hazardous environment and labour market outcomes in India.
 
-Explaining recent trends in Indian female labour-force participation  (with <a href="https://faculty.chicagobooth.edu/marianne-bertrand" style="color: darkred; " target="_blank"  rel="noopener noreferrer" > Marianne Bertrand</a> and <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a> )..
+  Explaining recent trends in Indian female labour-force participation  (with <a href="https://faculty.chicagobooth.edu/marianne-bertrand" style="color: darkred; " target="_blank"  rel="noopener noreferrer" > Marianne Bertrand</a> and <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a> )..
   
   The trade off between social norms and flexibility in the labour supply of married women in India (with <a href="https://vincentrramos.github.io/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Vincent Ramos</a> and <a href="https://www.anirudhtagat.com/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Anirudh Tagat</a>).
 
