@@ -14,7 +14,7 @@ permalink: /research.html
   
   Trade-off between supply and demand constraints on female labour-force participation in India (with <a href="https://vincentrramos.github.io/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Vincent Ramos</a> and <a href="https://www.anirudhtagat.com/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Anirudh Tagat</a>).
 
-  Digital skills training in vocational education in Rwanda (with <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a> and <a href="https://esmt.berlin/person/sunna-huegemann" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Sunna Hügemann</a>).
+  <a href="https://www.socialscienceregistry.org/trials/16844" style="color: blue; " target="_blank"  rel="noopener noreferrer" > Digital skills training in vocational education in Rwanda </a> (with <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a> and <a href="https://esmt.berlin/person/sunna-huegemann" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Sunna Hügemann</a>).
 
    Long-term effects of school feeding programs on the labour market (with <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a> and <a href="https://sites.google.com/view/tanikac" style="color: darkred; " target="_blank"  rel="noopener noreferrer" > Tanika Chakraborty</a>).
 
