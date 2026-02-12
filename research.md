@@ -8,9 +8,9 @@ permalink: /research.html
 
 - **Selected work in progress**
   
-  Gender differences in job search and job selection considerations among job market entrants in India.
+  Gender differences in job search and career considerations among job market entrants in urban India.
 
-  Extreme weather and labour market outcomes in India.
+  Hazardous environments and labour market outcomes in India.
   
   Trade-off between supply and demand constraints on female labour-force participation in India (with <a href="https://vincentrramos.github.io/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Vincent Ramos</a> and <a href="https://www.anirudhtagat.com/" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Anirudh Tagat</a>).
 
