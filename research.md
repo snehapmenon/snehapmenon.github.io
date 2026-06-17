@@ -27,7 +27,7 @@ permalink: /research.html
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5574874" style="color: blue; " target="_blank"  rel="noopener noreferrer" >The Impact of In-law Mortality on Women’s Labor Supply in India</a> (with <a href="https://sites.google.com/view/rajijayaraman/home" style="color: darkred; " target="_blank"  rel="noopener noreferrer" >Raji Jayaraman</a>). 
 
 
-- **Peer reviewed Papers (Pre-PhD) **  
+- **Peer reviewed Papers(Pre-PhD)**  
 
 
 
